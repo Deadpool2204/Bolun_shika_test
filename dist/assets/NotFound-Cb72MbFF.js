@@ -1,0 +1,1 @@
+import{i as e,o as t,p as n}from"./index-CpmlssWX.js";var r=t();function i(){return(0,r.jsxs)(`div`,{className:`not-found`,children:[(0,r.jsx)(e,{title:`That page isn't here`,description:`The link may have changed. Head back to your learning workspace.`}),(0,r.jsx)(n,{className:`button button-primary`,to:`/`,children:`Go to dashboard`})]})}export{i as NotFound};
